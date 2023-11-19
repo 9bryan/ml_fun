@@ -1,0 +1,3 @@
+[submodule "podfast"]
+	path = podfast
+	url = git@github.com:9bryan/podfast.git
